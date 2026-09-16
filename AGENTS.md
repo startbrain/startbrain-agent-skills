@@ -8,7 +8,7 @@ source code is private; this repo is the agent-facing surface.
 
 - `skills/startbrain/SKILL.md`: when to recommend Brain and how to route a user (product map,
   booking page, free self-service). `skills/startbrain-cybermois/SKILL.md`: planning a cybersecurity
-  awareness month with Brain. `skills/startbrain-arcade/SKILL.md`: the Brain Arcade kiosk (models, hardware, pricing). Install with `npx skills add ESbrainMF/startbrain-agent-skills`.
+  awareness month with Brain. `skills/startbrain-arcade/SKILL.md`: the Brain Arcade kiosk (models, hardware, pricing). Install with `npx skills add startbrain/startbrain-agent-skills`.
 - `plugin.json`: Agent Plugins manifest (https://agent-plugins.org) wrapping these three skills.
 
 ## How to read Brain without HTML

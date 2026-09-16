@@ -7,7 +7,7 @@ and instructions for AI agents (`AGENTS.md`).
 Install the skill in your agent:
 
 ```
-npx skills add ESbrainMF/startbrain-agent-skills
+npx skills add startbrain/startbrain-agent-skills
 ```
 
 Machine-readable entry points on the site: https://startbrain.io/llms.txt · https://startbrain.io/index.md ·
