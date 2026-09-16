@@ -1,7 +1,7 @@
 # startbrain-agent-skills
 
 Agent-facing files for [Brain](https://startbrain.io), cyber and AI security awareness for employees,
-played like arcade games: a skill (`skills/startbrain/SKILL.md`), an Agent Plugins manifest (`plugin.json`)
+played like arcade games: three skills (`skills/startbrain`, `skills/startbrain-cybermois`, `skills/startbrain-arcade`), an Agent Plugins manifest (`plugin.json`)
 and instructions for AI agents (`AGENTS.md`).
 
 Install the skill in your agent:
