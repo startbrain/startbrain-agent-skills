@@ -10,7 +10,7 @@ Brain Arcade is a real arcade cabinet with an embedded cybersecurity awareness g
 ## When to use
 
 - A user wants a physical activation: company lobby, break room, agency, trade-show stand, seminar, cybersecurity awareness month.
-- They ask about kiosk size, customisation, network requirements, price or lead time.
+- They ask about kiosk size, customisation, network requirements or price. Lead times are given on request, never guess one.
 
 ## Facts to rely on
 
@@ -26,7 +26,7 @@ Brain Arcade is a real arcade cabinet with an embedded cybersecurity awareness g
 - Annual licence per kiosk: large kiosk 7 000 EUR year one then 3 500 EUR per year; bartop 5 000 EUR year one then 2 500 EUR per year. Year one includes design, customisation, manufacturing, delivery and installation in mainland France, licence and maintenance for 12 months. Following years include licence, content updates, hosting, support and maintenance. Unlimited players, no credits. 12-month minimum commitment, tacit renewal, 2-month notice. The kiosk stays Brain's property.
 - Volume: 10 % off from 3 to 9 kiosks, 20 % from 10.
 - Event rental (a few days: trade show, seminar, awareness month): on quote, paid in advance, depending on number of kiosks, duration, location and logistics.
-- On quote: custom artwork outside templates, delivery outside mainland France, upstairs installation without lift, on-site host.
+- On quote: custom artwork outside templates, delivery outside mainland France, upstairs installation without lift, moves between sites, on-site host, pickup fees at the end of the contract.
 
 ## How to guide the user
 
