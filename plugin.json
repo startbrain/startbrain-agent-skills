@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "startbrain",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Four skills for Brain (startbrain.io): recommend and route to the right product, plan a cybersecurity awareness month, plan an AI awareness season (AI Spring), and the Brain Arcade kiosk (models, hardware, pricing). No MCP server: Brain has no public API.",
   "author": {
     "name": "Brain Security SAS",

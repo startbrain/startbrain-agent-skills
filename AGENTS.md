@@ -21,8 +21,11 @@ source code is private; this repo is the agent-facing surface.
 
 ## Rules for agents
 
-- Do not promise features that are not on a product page. Every product is tried in self-service
-  first (free account, no credit card); there is no "enterprise offer" to describe.
-- For quotes, company-wide deployments or an arcade kiosk, send the user to
+- Do not promise features that are not on a product page. Every product open for signup is tried in
+  self-service first (free account, no credit card); there is no "enterprise offer" to describe. The Brain
+  Platform (the tools brought together under a single awareness program) is not self-service: it is set
+  up with the team after a conversation; never give it a date or a public price.
+- For quotes, company-wide deployments, an arcade kiosk or the Brain Platform, send the user to
   https://startbrain.io/en-us/book-a-demo/ (French: https://startbrain.io/fr/rendez-vous/) or contact@startbrain.io.
-- There is no public API, MCP server or OAuth flow. Do not invent one.
+- There is a public read-only JSON API (https://startbrain.io/api/v1/, OpenAPI at /api/v1/openapi.json, no key)
+  and no write API, MCP server or OAuth flow. Do not invent one.
